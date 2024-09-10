@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Kavindu Lakshika👋, currently pursuing a Higher National Diploma in Information Technology 🎓.
+Hi there, I'm Kavindu Lakshika👋, currently pursuing a Higher National Diploma in Information Technology 🎓.I’m a passionate web developer and designer specializing in creating dynamic, responsive, and user-friendly websites. With a solid foundation in the MERN stack (MongoDB, Express.js, React, Node.js), I bring innovative solutions to life, ensuring both functionality and aesthetics are at the forefront of every project.
 
 
 ## 🌐 Socials:
